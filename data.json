@@ -1,0 +1,28 @@
+[
+        {
+            "name":"Camion",
+                "tag":"camion",
+                "price":13000
+        },
+        {
+            "name":"E-Legend",
+                "tag":"peugeot_e_legend",
+                "price":35000
+        },
+
+        {
+            "name":"Muscle Car",
+                "tag":"muscle_car",
+                "price":25000
+        },
+        {
+            "name":"SUV",
+                "tag":"suv",
+                "price":18000
+        },
+        {
+            "name":"Utilitaire",
+                "tag":"utilitaire",
+                "price":15000
+        }
+        ]
