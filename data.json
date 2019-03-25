@@ -2,7 +2,8 @@
         {
             "name":"Camion",
                 "tag":"camion",
-                "price":13000
+                "price":13000,
+                "description":"Ceci est une description du camion robuste mais bancal tout de meme"
         },
         {
             "name":"E-Legend",
