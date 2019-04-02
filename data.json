@@ -20,18 +20,21 @@
             "description":"Véhicule mythique ayant marqué l’histoire de l’automobile américaine."
         
         },
-        {
-            "name":"SUV",
-                "tag":"suv",
-                "price":18000,
-                "description":"Ce véhicule combine les caractéristiques d’un monospace avec celles d’un 4x4. Ainsi on retrouve une position de conduite assez droite et haute, l’accès à l’habitacle se fait facilement et le chargement du coffre s’y fait tout aussi aisément grâce à une modularité plus ou moins poussée"
-        
-        },
+      
         {
             "name":"Utilitaire",
                 "tag":"utilitaire",
                 "price":15000,
                 "description":" Ce véhicule a été pensé pour votre confort, votre sécurité et votre productivité."
         
+        },
+        
+          {
+            "name":"SUV",
+                "tag":"suv",
+                "price":18000,
+                "description":"Ce véhicule combine les caractéristiques d’un monospace avec celles d’un 4x4 pour le confort et la performance"
+        
         }
+        
         ]
