@@ -3,28 +3,28 @@
             "name":"Camion",
                 "tag":"camion",
                 "price":13000,
-                "description":"Voiture electrique futuriste à la pointe de la technologie"
+                "description":"Véhicule de transport de marchandises "
         },
         {
             "name":"E-Legend",
                 "tag":"peugeot_e_legend",
                 "price":35000,
-                "description":"Ceci est une description du camion robuste mais bancal tout de meme"
+                "description":"Voiture electrique futuriste à la pointe de la technologie"
         
         },
 
         {
             "name":"Muscle Car",
-                "tag":"muscle_car",
-                "price":25000,
-                "description":"Véhicule mythique ayant marqué l’histoire de l’automobile américaine.
+            "tag":"muscle_car",
+            "price":25000,
+            "description":"Véhicule mythique ayant marqué l’histoire de l’automobile américaine."
         
         },
         {
             "name":"SUV",
                 "tag":"suv",
                 "price":18000,
-                "description":"Ce véhicule combine les caractéristiques d’un monospace avec celles d’un . Ainsi on retrouve une position de conduite assez droite et haute, l’accès à l’habitacle se fait facilement et le chargement du coffre s’y fait tout aussi aisément grâce à une modularité plus ou moins poussée"
+                "description":"Ce véhicule combine les caractéristiques d’un monospace avec celles d’un 4x4. Ainsi on retrouve une position de conduite assez droite et haute, l’accès à l’habitacle se fait facilement et le chargement du coffre s’y fait tout aussi aisément grâce à une modularité plus ou moins poussée"
         
         },
         {
